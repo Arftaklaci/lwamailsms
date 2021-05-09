@@ -1,4 +1,4 @@
-# :bomb: ArifReis Sms Master And Mail Master
+# :bomb:Sms Master And Mail Master Cracked 
 ## ArifReis
 
 
@@ -39,6 +39,6 @@
   * `python3 impulse.py --help`
 
 # :phone: Örnek SMS & Çağırı flood:
-```python3 impulse.py --method SMS --time 20 --threads 15 --target +380123456789```
+```python3 impulse.py --method SMS --time 20 --threads 15 --target +90numara```
 
 # ArifReis
