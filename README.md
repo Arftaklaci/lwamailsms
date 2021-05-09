@@ -26,19 +26,19 @@
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
   * `git clone https://github.com/arftaklaci/lwamailsms`
-  * `cd Impulse/`
+  * `cd lwamailsms/`
   * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `python3 arifreis.py --help`
 
 * Telefon Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
   * `git clone https://github.com/arftaklaci/lwamailsms`
-  * `cd Impulse/`
+  * `cd lwamailsms/`
   * `pip3 install -r requirements.txt`
   * `python3 impulse.py --help`
 
 # :phone: Örnek SMS & Çağırı flood:
-```python3 impulse.py --method SMS --time 20 --threads 15 --target +90numara```
+```python3 arifreis.py --method SMS --time 20 --threads 15 --target +90numara```
 
 # ArifReis
