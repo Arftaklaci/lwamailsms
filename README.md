@@ -1,15 +1,11 @@
-# :bomb: Impulse
-## Modern Denial-of-service ToolKit
+# :bomb: ArifReis Sms Master And Mail Master
+## ArifReis
 
 
 <p align="center">
-  <img src="https://i.ibb.co/rFct6QX/LOGO.png">
+  <img src="https://i.ibb.co/YZLtY8k/lwa-1.jpg">
 </p>
 
-# :computer: Main window
-<p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Impulse-Main.png">
-</p>
 
 # :satellite: Methods:
 | Method               |   Target   | Description |
@@ -25,40 +21,24 @@
 | Slowloris            | IP:PORT    | Slowloris is a denial-of-service attack program which allows an attacker to overwhelm a targeted server by opening and maintaining many simultaneous HTTP connections between the attacker and the target. |
 | Memcached            | IP:PORT    | A memcached distributed denial-of-service (DDoS) attack is a type of cyber attack in which an attacker attempts to overload a targeted victim with internet traffic. The attacker spoofs requests to a vulnerable UDP memcached* server, which then floods a targeted victim with internet traffic, potentially overwhelming the victim’s resources. While the target’s internet infrastructure is overloaded, new requests cannot be processed and regular traffic is unable to access the internet resource, resulting in denial-of-service. |
 
-# :gift: Installation:
-* Windows:
-  * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
-  * Launch installer, click `add python to PATH`
-  * Download Impulse
-  * Open cmd or powershell in Impulse directory
-  * Run this command: `pip install -r requirements.txt`
-  * And this: `python impulse.py --help`
-
-* Linux:
+# :gift: İndirme:
+* Kali Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone https://github.com/LimerBoy/Impulse`
+  * `git clone https://github.com/arftaklaci/Impulse`
   * `cd Impulse/`
   * `pip3 install -r requirements.txt`
   * `python3 impulse.py --help`
 
-* Termux:
+* Telefon Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
-  * `git clone https://github.com/LimerBoy/Impulse`
+  * `git clone https://github.com/arftaklaci/Impulse`
   * `cd Impulse/`
   * `pip3 install -r requirements.txt`
   * `python3 impulse.py --help`
 
-# :phone: Example SMS & Call flood:
+# :phone: Örnek SMS & Çağırı flood:
 ```python3 impulse.py --method SMS --time 20 --threads 15 --target +380123456789```
 
-<p align="center">
-  <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
-</p>
-
-# :moneybag: Donate:
-**BTC:** `1GvEsEEdD8kfbSia6QR3Hk1G4fzy2mwZE4`  
-**ETH:** `0x4f62ce9632efF28f175aAAdd58B14A0AC053A952`  
-**XMR:** `487sRQv2gBXHVPc59Lkz5j7bgJ28Qy8nPW6hUvRyFWxM84cWzEnmVcWf6MWEQ59BwrP4viyoz6gfqhDPb1yiUx2SUViKVwd`  
-
+# ArifReis
